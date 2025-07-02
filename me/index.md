@@ -2,21 +2,28 @@
 layout: about
 ---
 
-My name is Ian Bouchard, a.k.a Corb3nik. I'm currently a student at Laval University (Canada),
-studying a bachelor's degree in computer science.
+Hi, I'm Ferrán — also known as Nezf.
 
-I love CTFs, I do almost every online CTF available on [ctftime.org](http://ctftime.org). My main focus is on web application security for the CTF team [OpenToAll](https://opentoallctf.github.io/). I'm also learning reverse engineering and
-binary exploitation on the side.
+I'm an independent offensive security learner with a strong focus on real-world hacking, system exploitation, and tool development.  
+I didn’t come from a traditional background. I learned by doing — failing fast, breaking things, and writing my own tools to understand how systems fall apart.
 
-When I'm not doing CTFs, I usually work on wargames and bug bounties. I also post writeups for
-challenges from time to time.
+Most of my time goes into pentesting labs, building my own internal framework, and exploring offensive techniques across infrastructure, web, and post-exploitation.  
+Platforms like Hack The Box, TryHackMe, and custom local labs are my daily training ground.
 
-Here are some wargames I train on :
-  - [Ringzer0 Team CTF](http://ringzer0team.com) (General Purpose Wargames)
-  - [Root-me](https://www.root-me.org) (General Purpose Wargames)
-  - [websec.fr](https://websec.fr/) (Web-oriented Wargames)
-  - [RPISEC MBE](https://github.com/RPISEC/MBE) (Binary Exploitation Course)
-  - [PentestIt](https://lab.pentestit.ru/) (Pentest Lab)
+Beyond hacking, I'm also a content creator.  
+I document my journey through writeups, tools, and YouTube videos — blending cybersecurity with hands-on DIY tech projects.  
+Sometimes it's code. Sometimes it's circuits, shells, solder, or scripts.  
+But it’s always about building and breaking with intention.
+
+I believe in staying sharp, staying humble, and always creating with purpose.
+
+Some places where I train or hunt:
+- [Hack The Box](https://app.hackthebox.com) – Realistic infrastructure and red team labs  
+- [TryHackMe](https://tryhackme.com) – Guided rooms & challenges  
+- [Root-Me](https://www.root-me.org) – Classic and creative wargames  
+- [HackerOne](https://hackerone.com) – Bug bounties, real impact  
+- [YouTube – notnezf](https://www.youtube.com/@notnezf) – My home for creative and offensive content
 
 <br/>
-See you guys in the next CTF ;)
+
+See you in the field — or on the feed 😉
